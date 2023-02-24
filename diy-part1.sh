@@ -22,4 +22,5 @@ echo 'src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall.gi
 git clone --depth=1 https://github.com/vernesong/OpenClash.git package/luci-app-openclash
 git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
 git clone https://github.com/1wrt/luci-app-ikoolproxy.git package/luci-app-ikoolproxy
-
+#git clone https://github.com/godros/luci-app-godproxy.git package/luci-app-godproxy
+git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
